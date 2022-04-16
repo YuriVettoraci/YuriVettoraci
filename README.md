@@ -1,6 +1,6 @@
 ### Olá! Sou o Yuri
 
-- 🔭 Estou atualmente estudando Ciência da Computação na Universidade do Porto
+- 🔭 Estou atualmente estudando Ciência da Computação na Universidade de Vila Velha
 - 🌱 Enquanto faço a faculdade também estudo sobre Java Script e Python por fora
 
 <div align="center">
