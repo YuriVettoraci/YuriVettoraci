@@ -1,6 +1,6 @@
 ### Olá! Sou o Yuri
 
-- 🔭 Estou atualmente estudando Data Science na Universidade de Vila Velha
+- 🔭 Estou atualmente estudando Análise e Desenvolvimento de Sistemas na Universidade de Vila Velha
 - 🌱 Enquanto faço a faculdade também estudo sobre Java Script e Python por fora
 
 <div align="center">
