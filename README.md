@@ -1,7 +1,7 @@
 ### Olá! Sou o Yuri
 
 - 🔭 Estou atualmente estudando Análise e Desenvolvimento de Sistemas na Universidade de Vila Velha.
-- 🌱 Enquanto faço a faculdade também estudo sobre Java Script e Python por fora.
+- 🌱 Faço estágio e também estudo C# e Python por fora.
 
 <div align="center">
   <a href="https://github.com/YuriVettoraci">
