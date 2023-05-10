@@ -1,7 +1,7 @@
 ### Olá! Sou o Yuri
 
-- 🔭 Estou atualmente estudando Análise e Desenvolvimento de Sistemas na Universidade de Vila Velha.
-- 🌱 Faço estágio e também estudo C# e Python por fora.
+- 🔭 Estou atualmente estudando Análise e Desenvolvimento de Sistemas na Universidade de Vila Velha, trabalho como Dev Estagiário na Autoglass.
+- 🌱 Faço estágio e minhas principais linguagens são C# | .NET | TypeScript | Angular | MySql.
 
 <div align="center">
   <a href="https://github.com/YuriVettoraci">
