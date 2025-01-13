@@ -1,7 +1,7 @@
 ### Olá! Sou o Yuri
 
 - 🔭 Estou atualmente estudando Análise e Desenvolvimento de Sistemas na Universidade de Vila Velha, trabalho como Desenvolvedor FullStack na Autoglass.
-- 🌱 Minhas principais linguagens são C# | .NET | TypeScript | Angular | Oracle PL/SQL.
+- 🌱 Minhas principais linguagens são C# | .NET | TypeScript | Angular
 
 <div align="center">
   <a href="https://github.com/YuriVettoraci">
