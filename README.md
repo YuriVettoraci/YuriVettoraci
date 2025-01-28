@@ -1,19 +1,11 @@
-### Olá! Sou o Yuri
+### Hello! I am Yuri
 
-- 🔭 Estou atualmente estudando Análise e Desenvolvimento de Sistemas na Universidade de Vila Velha, trabalho como Desenvolvedor FullStack na Autoglass.
-- 🌱 Minhas principais linguagens são C# | .NET | TypeScript | Angular
-
-<div align="center">
-  <a href="https://github.com/YuriVettoraci">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriVettoraci&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriVettoraci&layout=compact&langs_count=7&theme=merko"/>
-    
-</div>
-  
-  ##
-  
- <div> 
-  <a href="https://instagram.com/yurivett" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:yuri_vettoraci@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yuri-vettoraci-carvalho-85577819b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+- 🔭 I am currently studying System Analysis and Development at University of Vila Velha, previously studied 1 year of Computer Science at University of Porto in Portugal but had to interrupt it because of the Covid pandemic
+- 👨🏽‍💻 I work as a Full Stack Software Developer at Grupo Autoglass
+- 💻 My Main Skills:
+• Programming Languages: C#, TypeScript, JavaScript
+• Frameworks: Angular, .NET, ASP.NET Core.
+• Infrastructure: Amazon Web Services (AWS S3, SQS), Jenkins, CI/CD. 
+• Databases: AuroraDB, MongoDB, Oracle. 
+• Development Practices: Clean Architecture, Design Patterns, TDD, DDD. 
+• Tools: Git, Visual Studio, GitHub, Bitbucket.
