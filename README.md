@@ -10,4 +10,4 @@
 - Infrastructure: Amazon Web Services (AWS S3, SQS, ECS), Jenkins, CI/CD.
 - Databases: AuroraDB, MySQL, MongoDB, Oracle.
 - Development Practices: Clean Architecture, Design Patterns, TDD, DDD.
-- Tools: Git, Visual Studio, GitHub, Bitbucket.
+- Tools: Git, Visual Studio, GitHub, Bitbucket
