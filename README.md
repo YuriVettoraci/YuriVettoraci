@@ -2,7 +2,7 @@
 
 🔭 I am studying System Analysis and Development at University of Vila Velha, previously studied 1 year of Computer Science at University of Porto in Portugal but had to interrupt it because of the Covid pandemic
 
-👨🏽‍💻 I currently work as a Full Stack Software Developer at Grupo Autoglass
+👨🏽‍💻 I currently work as a Full Stack Software Developer at Localiza&Co
 
 💻 My Main Skills:
 - Programming Languages: C#, TypeScript, JavaScript
